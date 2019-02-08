@@ -18,8 +18,6 @@ function buildMetadata(sample) {
     });
     // Hint: Inside the loop, you will need to use d3 to append new
     // tags for each key-value in the metadata.
-    // BONUS: Build the Gauge Chart
-    // buildGauge(data.WFREQ);
   })}
 
 function buildCharts(sample) {
