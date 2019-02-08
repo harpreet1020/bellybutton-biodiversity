@@ -130,7 +130,7 @@ function buildCharts(sample) {
           color: '850000'
         }
       }],
-      title: 'Gauge'
+      title: 'Gauge',
       Speed: 0-100,
       height: 1000,
         width: 1000,
