@@ -35,4 +35,4 @@ Used Plotly.js to build interactive charts for dashboard.
 
 ## Step 2 - Heroku
 
-* Deployed  Flask app to Heroku.
+* Deployed  Flask app to Heroku: https://bellybutton--biodiversity.herokuapp.com/
