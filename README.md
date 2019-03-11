@@ -25,6 +25,8 @@ Used Plotly.js to build interactive charts for dashboard.
 
 * Used `otu_labels` for the text values
 
+<hr>
+
 * Displayed the sample metadata from the route `/metadata/<sample>`
 
 * Displayed each key/value pair from the metadata JSON object 
